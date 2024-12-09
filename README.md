@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/b59f071b-e862-41cb-b34b-735b6448886a
 
 # EMOJIPEDIA_APP
 
-Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web developer. This is an emoji app called "EmojiPedia", which is basically help you to understand the meaning of different emojis we used in our daily conversition. I hope you will like it 😊, and by the way the emoji that I have used is "smiling face, with smiling eys" that means I will be happy if you like it.
+Hi there! 👋 I am Muhammad Kashif Abdullah a full stack web developer. This is an emoji app called "EmojiPedia", which is basically help you to understand the meaning of different emojis we used in our daily conversition. I hope you will like it 😊, and by the way the emoji that I have used is "smiling face, with smiling eyes" that means I will be happy if you like it.
 
 ## Technologies Used:
 
